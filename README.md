@@ -36,7 +36,6 @@ This is a course about Python for economist.
 2. Chernozhukov
 3. Newey
 4. Pedro Sant Anna
-5. Julio del Valle
-6. Alexander Quispe
+
 
 
