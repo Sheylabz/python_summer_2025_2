@@ -19,3 +19,9 @@ This is a course about Python for economist.
 3. Django - Baccalov
 4. Búsqueda Implacable
 
+## Actors
+1. Denzel
+2. Anthony
+3. Leonardo
+4. Aristoteles
+
