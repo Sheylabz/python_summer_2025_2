@@ -31,3 +31,9 @@ This is a course about Python for economist.
 3. Econometrics
 4. Machine Learning
 
+## Professors
+1. Angrist
+2. Chernozhukov
+3. Newey
+4. Pedro Sant Anna
+
