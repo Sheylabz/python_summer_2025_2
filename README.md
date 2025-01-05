@@ -7,6 +7,12 @@ This is a course about Python for economist.
 3. María Vásquez
 4. Anderson Aguilar
 
+## Semester
+1. Seven
+2. Nine
+3. Eleven
+4. Ten
+
 ## Movies
 1. Openheimer
 2. Blade Runner
