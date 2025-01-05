@@ -25,3 +25,9 @@ This is a course about Python for economist.
 3. Leonardo
 4. Aristoteles
 
+## Fields
+1. Macroeconomics
+2. Development
+3. Econometrics
+4. Machine Learning
+
