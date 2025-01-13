@@ -25,3 +25,21 @@ This is a course about Python for economist.
 3. Leonardo
 4. Aristoteles
 
+## Fields
+1. Macroeconomics
+2. Development
+3. Econometrics
+4. Machine Learning
+
+## Professors
+1. Angrist
+2. Chernozhukov
+3. Newey
+4. Pedro Sant Anna
+
+## kind of movie
+1. romantic
+2. science fiction
+
+
+
